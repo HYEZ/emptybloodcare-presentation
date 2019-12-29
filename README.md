@@ -6,4 +6,4 @@
 ------
 
 ## Poster
-<img src="https://github.com/yamyamgoods/YamYam-Android/files/4007884/_.pdf" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/41736866/71554097-022cbc00-2a5e-11ea-9b03-bab608b68247.png" width="50%"></img>
